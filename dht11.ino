@@ -2,7 +2,7 @@
 
 //******************************************************************************
 //DHT temperature & humidity with I2C LCD
-//author: Josip Prpić
+//author: Microchips Team
 //This code is open source, you can use it as you wish in any of your projects :)
 //IMPORTANT INFO:
 //   - you have to install LCD I2C and DHT 11 library.
